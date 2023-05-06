@@ -1,0 +1,76 @@
+.contain {
+    // 核心组件
+    .inputBox {
+        margin: 0;
+        //position: absolute;
+        padding: 0.1rem;
+        transform: translate3d(-50%,-50%,0);
+        top: 50%;
+        left: 50%;
+
+        // 门锁图片
+        .lockImage {
+            width: 100%;
+            display: block;
+            background-color: #FFFFFF;
+
+            /deep/ .van-image__img {
+                width: 1.5rem;
+                margin: 0 auto;
+            }
+        }
+
+        // 欢迎语
+        .welcome {
+            text-align: center;
+            font-size: 0.15rem;
+            margin-bottom: 0.3rem;
+            line-height: 0.15rem;
+        }
+
+        // 输入框
+        .van-cell {
+            padding: 0.1rem 0.05rem;
+        }
+        .van-cell::after {
+            left: 0.05rem;
+            right: 0.05rem;
+        }
+        // 发送验证码的按钮
+        .sendCode {
+            background-color: #0094ff;
+            border: none;
+        }
+    }
+
+    // 绑定微信的按钮
+    .bindWechat {
+        width: 100%;
+        background-color: #fff;
+        color: #0094ff;
+        border-radius: 0.05rem;
+        margin-top: 0.1rem;
+    }
+
+    // 绑定微信的气泡
+    .bindWechatPopup {
+        padding: 0.3rem;
+    }
+    .bindWechatResult {
+        display: block;
+        font-size: 30px;
+        width: 30px;
+        margin: 0 auto;
+    }
+    .bindWechatResultText {
+        display: block;
+        font-size: 14px;
+        color: #1989fa;
+        text-align: center;
+    }
+
+    // 上下边框
+    /deep/ .van-hairline--top-bottom::after {
+        border-width: 0;
+    }
+}

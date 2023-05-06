@@ -1,0 +1,415 @@
+{
+  "id": "2376467",
+  "name": "h5设备详情页",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6776387",
+      "name": "声音开",
+      "font_class": "volume",
+      "unicode": "eca6",
+      "unicode_decimal": 60582
+    },
+    {
+      "icon_id": "5983093",
+      "name": "无线电波",
+      "font_class": "wireless",
+      "unicode": "ec79",
+      "unicode_decimal": 60537
+    },
+    {
+      "icon_id": "11687464",
+      "name": "指向箭头",
+      "font_class": "arrow-right",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "19990401",
+      "name": "二氧化碳",
+      "font_class": "co2",
+      "unicode": "e7e6",
+      "unicode_decimal": 59366
+    },
+    {
+      "icon_id": "19973941",
+      "name": "自动风-01",
+      "font_class": "windAuto",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "9420801",
+      "name": "风扇",
+      "font_class": "fengshan",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "14998648",
+      "name": "亮度",
+      "font_class": "HSVColor",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "20017440",
+      "name": "亮度",
+      "font_class": "bright",
+      "unicode": "e854",
+      "unicode_decimal": 59476
+    },
+    {
+      "icon_id": "5147492",
+      "name": "pm2.5",
+      "font_class": "PM25",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "5147493",
+      "name": "甲醛",
+      "font_class": "Formaldehyde",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "6595665",
+      "name": "voc监测点信息",
+      "font_class": "voc",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "15558898",
+      "name": "云",
+      "font_class": "yun",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "13228303",
+      "name": "关联",
+      "font_class": "guanlian",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "2327297",
+      "name": "上下扫风",
+      "font_class": "shangxiasaofeng1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "2620168",
+      "name": "左右扫风7",
+      "font_class": "leftofright",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "16212890",
+      "name": "自动",
+      "font_class": "auto",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "10355181",
+      "name": "songfeng",
+      "font_class": "songfeng",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "18893277",
+      "name": "除湿",
+      "font_class": "chushi",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "2869198",
+      "name": "太阳",
+      "font_class": "taiyang",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "6512855",
+      "name": "上箭头",
+      "font_class": "jiantou-xia",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11833535",
+      "name": "上箭头",
+      "font_class": "up-arrow",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "5975690",
+      "name": "四叶风扇",
+      "font_class": "siyefengshan",
+      "unicode": "eb0a",
+      "unicode_decimal": 60170
+    },
+    {
+      "icon_id": "16564704",
+      "name": "风扇灯",
+      "font_class": "fengshandeng",
+      "unicode": "ed52",
+      "unicode_decimal": 60754
+    },
+    {
+      "icon_id": "11264005",
+      "name": "温度",
+      "font_class": "temp",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "15525243",
+      "name": "湿度",
+      "font_class": "humi",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "18557004",
+      "name": "展开窗帘",
+      "font_class": "open",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "18557005",
+      "name": "收起窗帘",
+      "font_class": "close",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "21214682",
+      "name": "暂停 停止 2",
+      "font_class": "stop",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6292223",
+      "name": "更多 (2)",
+      "font_class": "more-o",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "175309",
+      "name": "锁",
+      "font_class": "pass",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "21985271",
+      "name": "00185_ Select Wifi Fill",
+      "font_class": "wifi",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "12003402",
+      "name": "加载更多",
+      "font_class": "scrollMore",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "7580504",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "11630719",
+      "name": "加载 (1)",
+      "font_class": "jiazai",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "12283277",
+      "name": "添加",
+      "font_class": "add",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10916133",
+      "name": "删 除 ",
+      "font_class": "del",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "14909851",
+      "name": "恢复出厂设置",
+      "font_class": "reset",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "9944327",
+      "name": "电量",
+      "font_class": "electric",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "14435540",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "20336741",
+      "name": "永久",
+      "font_class": "perp",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "9198439",
+      "name": "提醒一次",
+      "font_class": "once",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "7884731",
+      "name": "计时沙漏",
+      "font_class": "aging",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "10502115",
+      "name": "锁",
+      "font_class": "locking",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "3017633",
+      "name": "安全",
+      "font_class": "lock",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "27244",
+      "name": "钥匙",
+      "font_class": "key",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "7926314",
+      "name": "进入",
+      "font_class": "enter",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "13080946",
+      "name": "警告",
+      "font_class": "warn",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "20181875",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e84a",
+      "unicode_decimal": 59466
+    },
+    {
+      "icon_id": "6842537",
+      "name": "更多",
+      "font_class": "setting",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "9980358",
+      "name": "蓝牙",
+      "font_class": "bluetooth",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "10611484",
+      "name": "更多",
+      "font_class": "more",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "16904330",
+      "name": "指纹",
+      "font_class": "zhiwen",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "8718273",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "8453442",
+      "name": "网关",
+      "font_class": "gateway",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "284388",
+      "name": "设备_插座",
+      "font_class": "scoket",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "849340",
+      "name": "空调",
+      "font_class": "air",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "10094119",
+      "name": "开关",
+      "font_class": "switch",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "19814452",
+      "name": "开关",
+      "font_class": "switch-co",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    }
+  ]
+}

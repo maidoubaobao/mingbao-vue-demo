@@ -1,0 +1,247 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2376467 */
+  src: url('iconfont.woff2?t=1661496122195') format('woff2'),
+       url('iconfont.woff?t=1661496122195') format('woff'),
+       url('iconfont.ttf?t=1661496122195') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconvolume:before {
+  content: "\eca6";
+}
+
+.iconwireless:before {
+  content: "\ec79";
+}
+
+.iconarrow-right:before {
+  content: "\e611";
+}
+
+.iconco2:before {
+  content: "\e7e6";
+}
+
+.iconwindAuto:before {
+  content: "\e6e3";
+}
+
+.iconfengshan:before {
+  content: "\e6c5";
+}
+
+.iconHSVColor:before {
+  content: "\e78a";
+}
+
+.iconbright:before {
+  content: "\e854";
+}
+
+.iconPM25:before {
+  content: "\e61c";
+}
+
+.iconFormaldehyde:before {
+  content: "\e61d";
+}
+
+.iconvoc:before {
+  content: "\e719";
+}
+
+.iconyun:before {
+  content: "\e69a";
+}
+
+.iconguanlian:before {
+  content: "\e6fe";
+}
+
+.iconshangxiasaofeng1:before {
+  content: "\e60d";
+}
+
+.iconleftofright:before {
+  content: "\e61b";
+}
+
+.iconauto:before {
+  content: "\e60c";
+}
+
+.iconsongfeng:before {
+  content: "\e71d";
+}
+
+.iconchushi:before {
+  content: "\e695";
+}
+
+.icontaiyang:before {
+  content: "\e62f";
+}
+
+.iconjiantou-xia:before {
+  content: "\e602";
+}
+
+.iconup-arrow:before {
+  content: "\e603";
+}
+
+.iconsiyefengshan:before {
+  content: "\eb0a";
+}
+
+.iconfengshandeng:before {
+  content: "\ed52";
+}
+
+.icontemp:before {
+  content: "\e6ad";
+}
+
+.iconhumi:before {
+  content: "\e613";
+}
+
+.iconopen:before {
+  content: "\e73d";
+}
+
+.iconclose:before {
+  content: "\e73e";
+}
+
+.iconstop:before {
+  content: "\e601";
+}
+
+.iconmore-o:before {
+  content: "\e604";
+}
+
+.iconpass:before {
+  content: "\e607";
+}
+
+.iconwifi:before {
+  content: "\e6d7";
+}
+
+.iconscrollMore:before {
+  content: "\e605";
+}
+
+.iconshuaxin:before {
+  content: "\e6de";
+}
+
+.iconjiazai:before {
+  content: "\e7a6";
+}
+
+.iconadd:before {
+  content: "\e600";
+}
+
+.icondel:before {
+  content: "\e60a";
+}
+
+.iconreset:before {
+  content: "\e609";
+}
+
+.iconelectric:before {
+  content: "\e60f";
+}
+
+.iconsuo:before {
+  content: "\e69b";
+}
+
+.iconperp:before {
+  content: "\e686";
+}
+
+.icononce:before {
+  content: "\e703";
+}
+
+.iconaging:before {
+  content: "\e606";
+}
+
+.iconlocking:before {
+  content: "\e63b";
+}
+
+.iconlock:before {
+  content: "\e60b";
+}
+
+.iconkey:before {
+  content: "\e621";
+}
+
+.iconenter:before {
+  content: "\e7b4";
+}
+
+.iconwarn:before {
+  content: "\e630";
+}
+
+.iconuser:before {
+  content: "\e84a";
+}
+
+.iconsetting:before {
+  content: "\e62a";
+}
+
+.iconbluetooth:before {
+  content: "\e6c0";
+}
+
+.iconmore:before {
+  content: "\e635";
+}
+
+.iconzhiwen:before {
+  content: "\e65c";
+}
+
+.iconsousuo:before {
+  content: "\e608";
+}
+
+.icongateway:before {
+  content: "\e692";
+}
+
+.iconscoket:before {
+  content: "\e63a";
+}
+
+.iconair:before {
+  content: "\e60e";
+}
+
+.iconswitch:before {
+  content: "\e778";
+}
+
+.iconswitch-co:before {
+  content: "\e779";
+}
+
